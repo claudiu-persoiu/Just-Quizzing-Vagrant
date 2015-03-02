@@ -1,0 +1,3 @@
+[submodule "app/quizzing"]
+	path = app/quizzing
+	url = git://github.com/claudiu-persoiu/Just-Quizzing-Server.git
