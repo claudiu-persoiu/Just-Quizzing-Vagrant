@@ -16,4 +16,4 @@ Vagrant file for a local Just Quizzing server
 
 `vagrant up`
 
-- when the script will finish you should be able to access the platform at 192.168.56.19
+- when the script will finish you should be able to access the platform at http://192.168.56.19
