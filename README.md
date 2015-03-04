@@ -1,5 +1,5 @@
 # Just-Quizzing-Vagrant
-Vagrant file for a local Just Quizzing server
+Vagrant file for a local [Just Quizzing Server](https://github.com/claudiu-persoiu/Just-Quizzing-Server).
 
 ## Installation
 - Download and install Vagrant (https://www.vagrantup.com/)
